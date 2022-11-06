@@ -11,3 +11,4 @@
 ## references
 
 - [parcel.js setup](https://parceljs.org/recipes/web-extension/)
+- [chrome v3 template](https://github.com/bfmcneill/chrome-extension-v3-scaffold)
